@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="global_msg_error">Oops! An error occurred. Please try again.</string>
+    <string name="msg_recipe_owner">By %s</string>
+    <string name="search_hint">Search recipes by name, description, ingredients</string>
+    <string name="fake_profile_name">Steve Campos</string>
+    <string name="msg_try_again">Try again</string>
+    <string name="msg_recipe_reputation">Recipe reputation</string>
+    <string name="msg_steps">%d steps</string>
+    <string name="msg_cooking_stage">Cooking Stage</string>
+    <string name="msg_recipe_short_description">Short description</string>
+    <string name="msg_ingredients">Ingredients</string>
+    <string name="msg_healthy">Healthy food</string>
+    <string name="msg_country">Country</string>
+    <string name="msg_locate_recipe_on_map">Show origin</string>
+    <string name="msg_back">Go back</string>
+    <string name="google_api_key">AIzaSyCn9OLld70MKrypA0b8sjHtyzYlsc0TRf0</string>
+    <string name="msg_refreshing_description">Refreshing</string>
+</resources>

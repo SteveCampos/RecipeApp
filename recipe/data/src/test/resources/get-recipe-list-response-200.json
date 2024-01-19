@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Ceviche",
+    "imageUrl": "ceviche_image_url",
+    "description": "Plato de mariscos frescos y jugosos, marinados en jugo de limón",
+    "ingredients": ["pescado", "limón", "cebolla", "cilantro"],
+    "steps": ["Cortar el pescado en dados", "Mezclar con jugo de limón", "Añadir cebolla y cilantro"],
+    "owner": {"name": "Chef Peruano 1", "country": "Perú"},
+    "geolocation": {"latitude": -12.0464, "longitude": -77.0428}
+  },
+  {
+    "id": 2,
+    "title": "Lomo Saltado",
+    "imageUrl": "lomo_saltado_image_url",
+    "description": "Carne de res salteada con verduras y especias peruanas",
+    "ingredients": ["carne de res", "cebolla", "tomate", "salsa de soja"],
+    "steps": ["Saltear la carne de res", "Agregar las verduras", "Mezclar con salsa de soja"],
+    "owner": {"name": "Chef Peruano 2", "country": "Perú"},
+    "geolocation": {"latitude": -12.0464, "longitude": -77.0428}
+  },
+  {
+    "id": 3,
+    "title": "Ají de Gallina",
+    "imageUrl": "aji_de_gallina_image_url",
+    "description": "Plato cremoso de pollo desmenuzado en una salsa de ají amarillo y nueces",
+    "ingredients": ["pollo", "ají amarillo", "nueces", "leche"],
+    "steps": ["Cocinar el pollo", "Preparar la salsa de ají amarillo y nueces", "Mezclar con leche"],
+    "owner": {"name": "Chef Peruano 3", "country": "Perú"},
+    "geolocation": {"latitude": -12.0464, "longitude": -77.0428}
+  },
+  {
+    "id": 4,
+    "title": "Anticuchos",
+    "imageUrl": "anticuchos_image_url",
+    "description": "Brochetas de corazón de res marinadas y asadas",
+    "ingredients": ["corazón de res", "ají panca", "comino", "vinagre"],
+    "steps": ["Marinadar el corazón de res", "Ensartar en brochetas", "Asar en parrilla"],
+    "owner": {"name": "Chef Peruano 4", "country": "Perú"},
+    "geolocation": {"latitude": -12.0464, "longitude": -77.0428}
+  },
+  {
+    "id": 5,
+    "title": "Causa Limeña",
+    "imageUrl": "causa_limena_image_url",
+    "description": "Pastel de papa amarilla relleno con atún, pollo o mariscos",
+    "ingredients": ["papa amarilla", "limón", "ají amarillo", "atún"],
+    "steps": ["Cocinar las papas", "Preparar el relleno", "Armar el pastel"],
+    "owner": {"name": "Chef Peruano 5", "country": "Perú"},
+    "geolocation": {"latitude": -12.0464, "longitude": -77.0428}
+  },
+  {
+    "id": 6,
+    "title": "Seco de Cordero",
+    "imageUrl": "seco_de_cordero_image_url",
+    "description": "Guiso de cordero con cilantro, cerveza y chicha de jora",
+    "ingredients": ["cordero", "cilantro", "chicha de jora", "aji amarillo"],
+    "steps": ["Cocinar el cordero", "Preparar la salsa de cilantro y chicha", "Cocinar a fuego lento"],
+    "owner": {"name": "Chef Peruano 6", "country": "Perú"},
+    "geolocation": {"latitude": -12.0464, "longitude": -77.0428}
+  },
+  {
+    "id": 7,
+    "title": "Tacu Tacu",
+    "imageUrl": "tacu_tacu_image_url",
+    "description": "Plato de arroz y frijoles mezclado y luego frito, acompañado con lomo saltado",
+    "ingredients": ["arroz", "frijoles", "cebolla", "huevo"],
+    "steps": ["Cocinar arroz y frijoles", "Mezclar y formar tortas", "Freír y servir con lomo saltado"],
+    "owner": {"name": "Chef Peruano 7", "country": "Perú"},
+    "geolocation": {"latitude": -12.0464, "longitude": -77.0428}
+  },
+  {
+    "id": 8,
+    "title": "Rocoto Relleno",
+    "imageUrl": "rocoto_relleno_image_url",
+    "description": "Rocotos rellenos con carne, papas y queso, horneados y gratinados",
+    "ingredients": ["rocoto", "carne molida", "papas", "queso"],
+    "steps": ["Rellenar los rocotos", "Hornear y gratinar"],
+    "owner": {"name": "Chef Peruano 8", "country": "Perú"},
+    "geolocation": {"latitude": -12.0464, "longitude": -77.0428}
+  },
+  {
+    "id": 9,
+    "title": "Papa a la Huancaína",
+    "imageUrl": "papa_a_la_huancaina_image_url",
+    "description": "Papas cocidas con salsa cremosa de ají amarillo y queso fresco",
+    "ingredients": ["papas", "ají amarillo", "queso fresco", "nueces"],
+    "steps": ["Cocinar las papas", "Preparar la salsa de ají amarillo y queso", "Servir sobre las papas"],
+    "owner": {"name": "Chef Peruano 9", "country": "Perú"},
+    "geolocation": {"latitude": -12.0464, "longitude": -77.0428}
+  },
+  {
+    "id": 10,
+    "title": "Arroz con Mariscos",
+    "imageUrl": "arroz_con_mariscos_image_url",
+    "description": "Arroz cocido con una mezcla de mariscos en salsa de ají amarillo",
+    "ingredients": ["arroz", "mariscos variados", "ají amarillo", "cebolla"],
+    "steps": ["Cocinar el arroz", "Preparar la mezcla de mariscos en salsa", "Mezclar con el arroz"],
+    "owner": {"name": "Chef Peruano 10", "country": "Perú"},
+    "geolocation": {"latitude": -12.0464, "longitude": -77.0428}
+  }
+]
